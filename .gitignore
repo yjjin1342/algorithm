@@ -10,3 +10,7 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+<<<<<<< HEAD
+=======
+.classpath
+>>>>>>> algoStudy
