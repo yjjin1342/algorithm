@@ -1,6 +1,8 @@
 ### Eclipse ###
 .metadata
 bin/
+.classpath
+*.class
 tmp/
 *.tmp
 *.bak
@@ -10,5 +12,3 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-.classpath
-*.class
