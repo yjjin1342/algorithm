@@ -1,10 +1,10 @@
 package algorithm.main;
 
-import algorithm.dynamicprogramming.WildCard;
+import algorithm.divideconquer.BOJ1780;
 
 public class Main {
 
 	public static void main(String[] args) {
-		WildCard wildCard = new WildCard();
+		BOJ1780 boj1780 = new BOJ1780();
 	}
 }
